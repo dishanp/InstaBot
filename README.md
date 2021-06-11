@@ -16,6 +16,9 @@ A python bot capable of the following Instagram functionalities:
 * Downloading posts of a user
 * And more features to be added soon
 
+## Demo
+Check out a brief demonstration of a few cool functionalities [`here`](https://github.com/dishanp/InstaBot/blob/main/demo.mp4)
+
 ## Technologies
 The project is created with:
 * Python 
